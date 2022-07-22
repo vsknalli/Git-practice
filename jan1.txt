@@ -2,6 +2,10 @@ echo "My name is senthil"
 echo "This is my secound line"
 echo "This is my third line"
 echo "This is 4th line"
+<<<<<<< HEAD
 echo "This is 5th line"
 echo "This is 6th line"
 echo "This is 7th line"
+=======
+echo "This is 5th line"
+>>>>>>> 91ab42b3d7928d4edd1c5992e998fc611d110ca7
